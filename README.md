@@ -1,3 +1,3 @@
 # Visiting-Card
 
-## A visiting card for developers built using Flutter
+## A visiting card app for developers built using Flutter
